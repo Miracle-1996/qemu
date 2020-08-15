@@ -1,0 +1,9 @@
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+49cbf5d40bf4        test6               0.00%               34.5MiB / 191.3GiB    0.02%               516B / 0B           0B / 139kB          1
+134f27811c4d        test5               0.00%               26.69MiB / 191.3GiB   0.01%               656B / 0B           0B / 139kB          1
+cd372803c69d        test4               0.00%               28.25MiB / 191.3GiB   0.01%               656B / 0B           0B / 139kB          1
+243f394cedfc        test3               0.00%               28.25MiB / 191.3GiB   0.01%               656B / 0B           0B / 139kB          1
+4420e467dc77        test2               0.00%               27.19MiB / 191.3GiB   0.01%               726B / 0B           0B / 139kB          1
+d8fce1867ccf        test1               0.00%               27.19MiB / 191.3GiB   0.01%               726B / 0B           0B / 139kB          1
+0aecbbc3a9c6        test0               0.00%               27.19MiB / 191.3GiB   0.01%               726B / 0B           0B / 139kB          1
+9beb9bd36341        registry            0.00%               62.12MiB / 191.3GiB   0.03%               150MB / 359MB       0B / 69MB           61
